@@ -33,18 +33,18 @@ public class Methods4 {
 
 		long phno = sc.nextLong();
 		meth6(phno);
+		System.out.println(" enter your frnd name:");
 		String myfrndname = sc.next();
 		meth7(myfrndname);
-		System.out.println(" enter your frnd name:");
+		System.out.println(" enter your father name:");
 		String myfathername = sc.next();
 		meth8(myfathername);
-		System.out.println(" enter your father name:");
+		System.out.println(" enter your mother name:");
 		String mymothername = sc.next();
 		meth9(mymothername);
-		System.out.println(" enter your mother name:");
+		System.out.println(" enter your sister name:");
 		String mysistername = sc.next();
 		meth10(mysistername);
-		System.out.println(" enter your sister name:");
 	}
 
 	static void meth2(String name) {
@@ -84,7 +84,9 @@ public class Methods4 {
 	}
 
 	static void meth10(String mysistername) {
+	
 		System.out.println(" my sister name is:" + mysistername);
+		
 	}
 
 }
