@@ -58,6 +58,8 @@ else {
 		System.out.println("you can leave for the day");
 	
 }
-	}
+sc.close();
 
+	}
+	
 }

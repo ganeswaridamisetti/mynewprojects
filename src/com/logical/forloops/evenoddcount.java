@@ -11,7 +11,7 @@ public class evenoddcount {
 				System.out.println(i);
 				evencount++;
 
-				// System.out.println("even number is"+evencount);
+				 System.out.println("even number is"+evencount);
 
 			}
 		}
@@ -22,7 +22,7 @@ public class evenoddcount {
 				System.out.println(i);
 				oddcount++;
 
-				// System.out.println("odd number is"+oddcount);
+				System.out.println("odd number is"+oddcount);
 
 			}
 		}
